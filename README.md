@@ -2,6 +2,8 @@
 
 Objective: Write a demonstrative code to show the fundementals of OOP in Java.
 
+Link to this repository: https://github.com/Shiro995/OOP-Fundementals-in-Java
+
 We have 5 main fundemental OOP concepts; they are:
 
 1. Modularity
