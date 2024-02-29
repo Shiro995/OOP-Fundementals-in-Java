@@ -1,4 +1,4 @@
-# OOP Fundementals in Java - Lab Task 1
+# OOP Fundementals in Java - Lab Task
 
 Objective: Write a demonstrative code to show the fundementals of OOP in Java.
 
